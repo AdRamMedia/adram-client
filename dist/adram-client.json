@@ -1,0 +1,19 @@
+{
+    "AdRam": {
+        "React": {
+            "Payload":  "AdRecovery",
+            "Position": {
+                "Style": "Float",
+                "Float":
+                {
+                    "Location": "Bottom-Center"
+                }
+            },
+            "Options":  {
+                "AdRecovery": {
+                    "Code": "// Code goes here"
+                }
+            }
+        }
+    }
+}
