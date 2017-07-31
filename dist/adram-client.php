@@ -10,7 +10,7 @@
         $CURL = curl_init();
         curl_setopt_array($CURL,
             [
-                CURLOPT_URL => 'https://adram.local/api/2.2/raw/AdRam/GetDetectAndReactCode',
+                CURLOPT_URL => 'https://adram.local/api/2.2/raw/AdRam/GetDetectAndReactScript',
                 CURLOPT_RETURNTRANSFER => true,
                 CURLOPT_ENCODING => '',
                 CURLOPT_MAXREDIRS => 5,
